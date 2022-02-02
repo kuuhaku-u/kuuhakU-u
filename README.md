@@ -21,5 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuuhaku-u&show_icons=true&locale=en&layout=compact" alt="kuuhaku-u" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuuhaku-u&show_icons=true&locale=en" alt="kuuhaku-u" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuuhaku-u&" alt="kuuhaku-u" /></p>
+<p><img align="center" size="100px" src="https://github-readme-streak-stats.herokuapp.com/?user=kuuhaku-u&" alt="kuuhaku-u" /></p>
 
