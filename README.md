@@ -1,9 +1,9 @@
-<foott> {background-color: powderblue;}
+<
 
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A Computer science student from New Delhi, India</h3>
 
-<p align="left"> <a href="https://twitter.com/lucifer_feith" target="blank"><img src="https://img.shields.io/twitter/follow/lucifer_feith?logo=twitter&style=for-the-badge" alt="lucifer_feith" /></a> </p>
+
 
 - 🌱 I’m currently learning **Mediapipe**
 
@@ -22,8 +22,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuuhaku-u&show_icons=true&locale=en&layout=compact" alt="kuuhaku-u" /></p>
 
 <p>&nbsp;
- <foott>
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuuhaku-u&show_icons=true&locale=en" alt="kuuhaku-u" /></p>
-</foott>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuuhaku-u&" alt="kuuhaku-u" /></p>
 
