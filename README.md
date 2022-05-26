@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Mediapipe**
+- 🌱 I’m currently learning **BAsh**
 
 - ⚡ Fun fact **I think dragons are real**
 
