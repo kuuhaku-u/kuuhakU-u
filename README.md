@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **Rust**
 
 - ⚡ Fun fact **I think dragons are real**
 
