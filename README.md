@@ -27,10 +27,9 @@ I'm koro, a passionate developer experienced in Rust, Python, and TypeScript.
 - TypeScript
 
 
-
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuuhaku-u&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=kuuhaku-u&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuuhaku-u&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Streak" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=kuuhaku-u&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" width="400px">
 </div>
 
 ## Technologies & Tools
