@@ -1,9 +1,9 @@
 # Hi there! 👋
 
 
+primary guthub - https://github.com/partner-Ankit-Bansal
 
-
-I'm koro, a passionate developer experienced in Rust, Python, and TypeScript.
+I'm Ankit, a passionate developer experienced in Rust, Python, and TypeScript.
 
 - 🔭 I’m currently working on various projects utilizing Rust, Python, and TypeScript.
 - 🌱 I’m continuously learning and exploring new technologies.
